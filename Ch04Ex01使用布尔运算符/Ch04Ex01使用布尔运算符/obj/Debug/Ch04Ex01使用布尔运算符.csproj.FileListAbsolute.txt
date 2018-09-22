@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\obj\Debug\Ch04Ex01使用布尔运算符.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\obj\Debug\Ch04Ex01使用布尔运算符.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\bin\Debug\Ch04Ex01使用布尔运算符.exe.config
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\bin\Debug\Ch04Ex01使用布尔运算符.exe
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\bin\Debug\Ch04Ex01使用布尔运算符.pdb
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\obj\Debug\Ch04Ex01使用布尔运算符.exe
+C:\Users\lenovo\Desktop\C#.Practise\Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符\obj\Debug\Ch04Ex01使用布尔运算符.pdb

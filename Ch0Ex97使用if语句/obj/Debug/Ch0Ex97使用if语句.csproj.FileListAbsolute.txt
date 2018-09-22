@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\obj\Debug\Ch0Ex97使用if语句.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\obj\Debug\Ch0Ex97使用if语句.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\bin\Debug\Ch0Ex97使用if语句.exe.config
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\bin\Debug\Ch0Ex97使用if语句.exe
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\bin\Debug\Ch0Ex97使用if语句.pdb
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\obj\Debug\Ch0Ex97使用if语句.exe
+C:\Users\lenovo\Desktop\Programme\C#.Practise\Ch0Ex97使用if语句\obj\Debug\Ch0Ex97使用if语句.pdb

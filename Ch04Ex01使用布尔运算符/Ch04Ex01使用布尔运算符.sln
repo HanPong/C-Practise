@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04Ex01使用布尔运算符", "Ch04Ex01使用布尔运算符\Ch04Ex01使用布尔运算符.csproj", "{C9BEF06C-1F1D-4F38-9936-23696FB4D951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9BEF06C-1F1D-4F38-9936-23696FB4D951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BEF06C-1F1D-4F38-9936-23696FB4D951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BEF06C-1F1D-4F38-9936-23696FB4D951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BEF06C-1F1D-4F38-9936-23696FB4D951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196A526B-D810-4A00-97A6-9E78048B2C11}
+	EndGlobalSection
+EndGlobal

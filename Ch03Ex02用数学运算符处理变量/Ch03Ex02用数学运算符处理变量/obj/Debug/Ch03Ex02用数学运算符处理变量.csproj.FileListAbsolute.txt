@@ -1,0 +1,7 @@
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\bin\Debug\Ch03Ex02用数学运算符处理变量.exe.config
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\bin\Debug\Ch03Ex02用数学运算符处理变量.exe
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\bin\Debug\Ch03Ex02用数学运算符处理变量.pdb
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\obj\Debug\Ch03Ex02用数学运算符处理变量.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\obj\Debug\Ch03Ex02用数学运算符处理变量.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\obj\Debug\Ch03Ex02用数学运算符处理变量.exe
+C:\Users\lenovo\Desktop\C#.Practise\Ch03Ex02用数学运算符处理变量\Ch03Ex02用数学运算符处理变量\obj\Debug\Ch03Ex02用数学运算符处理变量.pdb
